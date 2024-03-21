@@ -1,0 +1,13 @@
+{
+  "domain": "test_sensors",
+  "name": "Test Sensors",
+  "codeowners": ["@mitch3s"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/test_sensors",
+  "homekit": {},
+  "iot_class": "local_polling",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}

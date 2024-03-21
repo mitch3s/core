@@ -1361,6 +1361,8 @@ build.json @home-assistant/supervisor
 /tests/components/teslemetry/ @Bre77
 /homeassistant/components/tessie/ @Bre77
 /tests/components/tessie/ @Bre77
+/homeassistant/components/test_sensors/ @mitch3s
+/tests/components/test_sensors/ @mitch3s
 /homeassistant/components/text/ @home-assistant/core
 /tests/components/text/ @home-assistant/core
 /homeassistant/components/tfiac/ @fredrike @mellado
